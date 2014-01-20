@@ -4,9 +4,9 @@ gem 'rails', '4.0.2'
 
 gem 'sqlite3'
 
-gem 'bootstrap-saas'
-gem 'sass-rails', '~> 4.0.0'
 
+gem 'sass-rails', '~> 4.0.0'
+gem 'bootstrap-sass', '~> 3.0.3.0'
 gem 'devise'
 gem 'figaro'
 gem 'better_errors'
